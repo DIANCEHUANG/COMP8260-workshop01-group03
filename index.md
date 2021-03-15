@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Landing Pages
+
+you can [go to Github Repository](https://github.com/DianciePR/COMP8260-workshop01-group03) to check the repository of our group.
 
 You can use the [editor on GitHub](https://github.com/DianciePR/COMP8260-workshop01-group03/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
