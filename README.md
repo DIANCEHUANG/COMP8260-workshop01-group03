@@ -1,12 +1,12 @@
 # COMP8260-workshop01-group03
-This is the repsitory of workshop01 group03 for the course COMP 8260 in ANU
+This is the repository of workshop01 group03 for the course COMP 8260 in ANU
 
 
 ## ====== Project Process update 2021.3.23 ======
 
 + Work target:
     * collect data: comments about GPT-3
-    * analyze data: find out people's atitude(pay attention to ethical analysis)
+    * analyze data: find out people's attitude(pay attention to ethical analysis)
 
 + Done:
     * POV ✔
